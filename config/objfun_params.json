@@ -1,0 +1,13 @@
+{
+  "objFunParams": {
+    "w_EE": 1.0,
+    "w_PE": 1.0,
+    "lambda_T": 0.2,
+    "lambda_W": 0.2,
+    "alpha_T": 10.0,
+    "alpha_W": 10.0,
+    "epsilon": 0.001,
+    "hp_exponent": 2
+  }
+}
+

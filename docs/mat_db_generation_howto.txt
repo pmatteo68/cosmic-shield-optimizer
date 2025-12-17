@@ -1,0 +1,3 @@
+In the simulator control directory, launch the script for dumping the Geant4 materials database.
+
+To invert names and densities: jq '{materials: [.materials[] | {matname: .matname, matdensity: .matdensity}]}' <filepath>

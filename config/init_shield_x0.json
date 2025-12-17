@@ -1,0 +1,15 @@
+{
+  "shield": {
+    "layers": [
+      {
+        "material": "G4_Ti",
+        "thickness": 1.002 
+      },
+      {
+        "material": "G4_Pb", 
+        "thickness": 1.103
+      }
+    ]
+  }
+}
+

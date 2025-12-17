@@ -1,0 +1,8 @@
+#MUST be distinct!
+G4_Ti
+G4_Pb
+G4_Pb
+G4_POLYETHYLENE
+#Iron
+G4_POLYETHYLENE
+#MyPlastic

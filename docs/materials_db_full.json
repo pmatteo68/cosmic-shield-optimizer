@@ -1,0 +1,1549 @@
+{
+  "materials": [
+    {
+      "matname": "G4_WATER",
+      "matdensity": 1.0,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_H",
+      "matdensity": 0.00008374799999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_He",
+      "matdensity": 0.000166322,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Li",
+      "matdensity": 0.534,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Be",
+      "matdensity": 1.8480000000000003,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_B",
+      "matdensity": 2.37,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_C",
+      "matdensity": 2.0,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_N",
+      "matdensity": 0.0011652,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_O",
+      "matdensity": 0.00133151,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_F",
+      "matdensity": 0.00158029,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ne",
+      "matdensity": 0.0008385049999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Na",
+      "matdensity": 0.9709999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Mg",
+      "matdensity": 1.7399999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Al",
+      "matdensity": 2.6989999999999994,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Si",
+      "matdensity": 2.3299999999999996,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_P",
+      "matdensity": 2.2,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_S",
+      "matdensity": 2.0,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Cl",
+      "matdensity": 0.00299473,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ar",
+      "matdensity": 0.0016620099999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_K",
+      "matdensity": 0.8619999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ca",
+      "matdensity": 1.55,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Sc",
+      "matdensity": 2.9889999999999994,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ti",
+      "matdensity": 4.539999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_V",
+      "matdensity": 6.109999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Cr",
+      "matdensity": 7.179999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Mn",
+      "matdensity": 7.44,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Fe",
+      "matdensity": 7.873999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Co",
+      "matdensity": 8.9,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ni",
+      "matdensity": 8.901999999999997,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Cu",
+      "matdensity": 8.959999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Zn",
+      "matdensity": 7.132999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ga",
+      "matdensity": 5.903999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ge",
+      "matdensity": 5.3229999999999995,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_As",
+      "matdensity": 5.7299999999999995,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Se",
+      "matdensity": 4.5,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Br",
+      "matdensity": 0.0070721,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Kr",
+      "matdensity": 0.0034783199999999996,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Rb",
+      "matdensity": 1.5319999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Sr",
+      "matdensity": 2.5399999999999996,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Y",
+      "matdensity": 4.468999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Zr",
+      "matdensity": 6.505999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Nb",
+      "matdensity": 8.57,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Mo",
+      "matdensity": 10.219999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Tc",
+      "matdensity": 11.5,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ru",
+      "matdensity": 12.41,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Rh",
+      "matdensity": 12.41,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Pd",
+      "matdensity": 12.02,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ag",
+      "matdensity": 10.5,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Cd",
+      "matdensity": 8.65,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_In",
+      "matdensity": 7.31,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Sn",
+      "matdensity": 7.31,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Sb",
+      "matdensity": 6.690999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Te",
+      "matdensity": 6.239999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_I",
+      "matdensity": 4.93,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Xe",
+      "matdensity": 0.005485359999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Cs",
+      "matdensity": 1.8729999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ba",
+      "matdensity": 3.4999999999999996,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_La",
+      "matdensity": 6.153999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ce",
+      "matdensity": 6.656999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Pr",
+      "matdensity": 6.709999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Nd",
+      "matdensity": 6.899999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Pm",
+      "matdensity": 7.22,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Sm",
+      "matdensity": 7.459999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Eu",
+      "matdensity": 5.242999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Gd",
+      "matdensity": 7.900400000000001,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Tb",
+      "matdensity": 8.228999999999997,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Dy",
+      "matdensity": 8.55,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ho",
+      "matdensity": 8.794999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Er",
+      "matdensity": 9.066,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Tm",
+      "matdensity": 9.321,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Yb",
+      "matdensity": 6.7299999999999995,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Lu",
+      "matdensity": 9.84,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Hf",
+      "matdensity": 13.309999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ta",
+      "matdensity": 16.654,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_W",
+      "matdensity": 19.3,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Re",
+      "matdensity": 21.02,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Os",
+      "matdensity": 22.569999999999997,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ir",
+      "matdensity": 22.419999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Pt",
+      "matdensity": 21.449999999999996,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Au",
+      "matdensity": 19.32,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Hg",
+      "matdensity": 13.546,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Tl",
+      "matdensity": 11.72,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Pb",
+      "matdensity": 11.35,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Bi",
+      "matdensity": 9.746999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Po",
+      "matdensity": 9.319999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_At",
+      "matdensity": 9.319999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Rn",
+      "matdensity": 0.00900662,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Fr",
+      "matdensity": 1.0,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ra",
+      "matdensity": 4.999999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Ac",
+      "matdensity": 10.069999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Th",
+      "matdensity": 11.72,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Pa",
+      "matdensity": 15.37,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_U",
+      "matdensity": 18.95,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Np",
+      "matdensity": 20.25,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Pu",
+      "matdensity": 19.839999999999996,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Am",
+      "matdensity": 13.67,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Cm",
+      "matdensity": 13.51,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Bk",
+      "matdensity": 13.999999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Cf",
+      "matdensity": 9.999999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_A-150_TISSUE",
+      "matdensity": 1.1269999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_ACETONE",
+      "matdensity": 0.7899,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_ACETYLENE",
+      "matdensity": 0.0010967,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_ADENINE",
+      "matdensity": 1.35,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_ADIPOSE_TISSUE_ICRP",
+      "matdensity": 0.95,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_AIR",
+      "matdensity": 0.0012047899999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_ALANINE",
+      "matdensity": 1.42,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_ALUMINUM_OXIDE",
+      "matdensity": 3.9699999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_AMBER",
+      "matdensity": 1.1,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_AMMONIA",
+      "matdensity": 0.000826019,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_ANILINE",
+      "matdensity": 1.0235,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_ANTHRACENE",
+      "matdensity": 1.283,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_B-100_BONE",
+      "matdensity": 1.45,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_BAKELITE",
+      "matdensity": 1.2499999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_BARIUM_FLUORIDE",
+      "matdensity": 4.89,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_BARIUM_SULFATE",
+      "matdensity": 4.5,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_BENZENE",
+      "matdensity": 0.8786499999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_BERYLLIUM_OXIDE",
+      "matdensity": 3.01,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_BGO",
+      "matdensity": 7.129999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_BLOOD_ICRP",
+      "matdensity": 1.06,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_BONE_COMPACT_ICRU",
+      "matdensity": 1.8499999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_BONE_CORTICAL_ICRP",
+      "matdensity": 1.92,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_BORON_CARBIDE",
+      "matdensity": 2.5199999999999996,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_BORON_OXIDE",
+      "matdensity": 1.812,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_BRAIN_ICRP",
+      "matdensity": 1.0399999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_BUTANE",
+      "matdensity": 0.00249343,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_N-BUTYL_ALCOHOL",
+      "matdensity": 0.8097999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_C-552",
+      "matdensity": 1.7599999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CADMIUM_TELLURIDE",
+      "matdensity": 6.2,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CADMIUM_TUNGSTATE",
+      "matdensity": 7.9,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CALCIUM_CARBONATE",
+      "matdensity": 2.8,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CALCIUM_FLUORIDE",
+      "matdensity": 3.18,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CALCIUM_OXIDE",
+      "matdensity": 3.299999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CALCIUM_SULFATE",
+      "matdensity": 2.96,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CALCIUM_TUNGSTATE",
+      "matdensity": 6.062,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CARBON_DIOXIDE",
+      "matdensity": 0.0018421199999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CARBON_TETRACHLORIDE",
+      "matdensity": 1.5939999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CELLULOSE_CELLOPHANE",
+      "matdensity": 1.42,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CELLULOSE_BUTYRATE",
+      "matdensity": 1.1999999999999997,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CELLULOSE_NITRATE",
+      "matdensity": 1.4899999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CERIC_SULFATE",
+      "matdensity": 1.0299999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CESIUM_FLUORIDE",
+      "matdensity": 4.114999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CESIUM_IODIDE",
+      "matdensity": 4.51,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CHLOROBENZENE",
+      "matdensity": 1.1057999999999997,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CHLOROFORM",
+      "matdensity": 1.4832,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CONCRETE",
+      "matdensity": 2.3,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CYCLOHEXANE",
+      "matdensity": 0.7789999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_1,2-DICHLOROBENZENE",
+      "matdensity": 1.3048,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_DICHLORODIETHYL_ETHER",
+      "matdensity": 1.2199,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_1,2-DICHLOROETHANE",
+      "matdensity": 1.2350999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_DIETHYL_ETHER",
+      "matdensity": 0.7137799999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_N,N-DIMETHYL_FORMAMIDE",
+      "matdensity": 0.9487,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_DIMETHYL_SULFOXIDE",
+      "matdensity": 1.1014,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_ETHANE",
+      "matdensity": 0.00125324,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_ETHYL_ALCOHOL",
+      "matdensity": 0.7893,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_ETHYL_CELLULOSE",
+      "matdensity": 1.1299999999999997,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_ETHYLENE",
+      "matdensity": 0.0011749699999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_EYE_LENS_ICRP",
+      "matdensity": 1.07,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_FERRIC_OXIDE",
+      "matdensity": 5.2,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_FERROBORIDE",
+      "matdensity": 7.15,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_FERROUS_OXIDE",
+      "matdensity": 5.7,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_FERROUS_SULFATE",
+      "matdensity": 1.024,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_FREON-12",
+      "matdensity": 1.1199999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_FREON-12B2",
+      "matdensity": 1.8,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_FREON-13",
+      "matdensity": 0.95,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_FREON-13B1",
+      "matdensity": 1.5,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_FREON-13I1",
+      "matdensity": 1.8,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_GADOLINIUM_OXYSULFIDE",
+      "matdensity": 7.44,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_GALLIUM_ARSENIDE",
+      "matdensity": 5.31,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_GEL_PHOTO_EMULSION",
+      "matdensity": 1.2913999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Pyrex_Glass",
+      "matdensity": 2.23,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_GLASS_LEAD",
+      "matdensity": 6.22,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_GLASS_PLATE",
+      "matdensity": 2.3999999999999995,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_GLUTAMINE",
+      "matdensity": 1.4599999999999997,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_GLYCEROL",
+      "matdensity": 1.2612999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_GUANINE",
+      "matdensity": 1.58,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_GYPSUM",
+      "matdensity": 2.32,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_N-HEPTANE",
+      "matdensity": 0.68376,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_N-HEXANE",
+      "matdensity": 0.6602999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_KAPTON",
+      "matdensity": 1.42,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_LANTHANUM_OXYBROMIDE",
+      "matdensity": 6.28,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_LANTHANUM_OXYSULFIDE",
+      "matdensity": 5.86,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_LEAD_OXIDE",
+      "matdensity": 9.53,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_LITHIUM_AMIDE",
+      "matdensity": 1.178,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_LITHIUM_CARBONATE",
+      "matdensity": 2.11,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_LITHIUM_FLUORIDE",
+      "matdensity": 2.6349999999999993,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_LITHIUM_HYDRIDE",
+      "matdensity": 0.82,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_LITHIUM_IODIDE",
+      "matdensity": 3.494,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_LITHIUM_OXIDE",
+      "matdensity": 2.013,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_LITHIUM_TETRABORATE",
+      "matdensity": 2.44,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_LUNG_ICRP",
+      "matdensity": 1.0399999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_M3_WAX",
+      "matdensity": 1.05,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_MAGNESIUM_CARBONATE",
+      "matdensity": 2.9579999999999997,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_MAGNESIUM_FLUORIDE",
+      "matdensity": 3.0,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_MAGNESIUM_OXIDE",
+      "matdensity": 3.58,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_MAGNESIUM_TETRABORATE",
+      "matdensity": 2.5299999999999994,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_MERCURIC_IODIDE",
+      "matdensity": 6.36,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_METHANE",
+      "matdensity": 0.000667151,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_METHANOL",
+      "matdensity": 0.7913999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_MIX_D_WAX",
+      "matdensity": 0.9899999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_MS20_TISSUE",
+      "matdensity": 1.0,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_MUSCLE_SKELETAL_ICRP",
+      "matdensity": 1.05,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_MUSCLE_STRIATED_ICRU",
+      "matdensity": 1.0399999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_MUSCLE_WITH_SUCROSE",
+      "matdensity": 1.11,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_MUSCLE_WITHOUT_SUCROSE",
+      "matdensity": 1.07,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_NAPHTHALENE",
+      "matdensity": 1.1449999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_NITROBENZENE",
+      "matdensity": 1.19867,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_NITROUS_OXIDE",
+      "matdensity": 0.00183094,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_NYLON-8062",
+      "matdensity": 1.08,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_NYLON-6-6",
+      "matdensity": 1.14,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_NYLON-6-10",
+      "matdensity": 1.14,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_NYLON-11_RILSAN",
+      "matdensity": 1.425,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_OCTANE",
+      "matdensity": 0.7026,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_PARAFFIN",
+      "matdensity": 0.93,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_N-PENTANE",
+      "matdensity": 0.6261999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_PHOTO_EMULSION",
+      "matdensity": 3.815,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_PLASTIC_SC_VINYLTOLUENE",
+      "matdensity": 1.032,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_PLUTONIUM_DIOXIDE",
+      "matdensity": 11.459999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POLYACRYLONITRILE",
+      "matdensity": 1.17,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POLYCARBONATE",
+      "matdensity": 1.1999999999999997,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POLYCHLOROSTYRENE",
+      "matdensity": 1.3,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POLYETHYLENE",
+      "matdensity": 0.9399999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_MYLAR",
+      "matdensity": 1.4,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_PLEXIGLASS",
+      "matdensity": 1.19,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POLYOXYMETHYLENE",
+      "matdensity": 1.425,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POLYPROPYLENE",
+      "matdensity": 0.9,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POLYSTYRENE",
+      "matdensity": 1.06,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_TEFLON",
+      "matdensity": 2.2,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POLYTRIFLUOROCHLOROETHYLENE",
+      "matdensity": 2.1,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POLYVINYL_ACETATE",
+      "matdensity": 1.19,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POLYVINYL_ALCOHOL",
+      "matdensity": 1.3,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POLYVINYL_BUTYRAL",
+      "matdensity": 1.1199999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POLYVINYL_CHLORIDE",
+      "matdensity": 1.3,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POLYVINYLIDENE_CHLORIDE",
+      "matdensity": 1.6999999999999997,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POLYVINYLIDENE_FLUORIDE",
+      "matdensity": 1.7599999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POLYVINYL_PYRROLIDONE",
+      "matdensity": 1.2499999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POTASSIUM_IODIDE",
+      "matdensity": 3.1299999999999994,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_POTASSIUM_OXIDE",
+      "matdensity": 2.32,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_PROPANE",
+      "matdensity": 0.00187939,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_lPROPANE",
+      "matdensity": 0.43000000000000005,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_N-PROPYL_ALCOHOL",
+      "matdensity": 0.8035000000000001,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_PYRIDINE",
+      "matdensity": 0.9818999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_RUBBER_BUTYL",
+      "matdensity": 0.9199999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_RUBBER_NATURAL",
+      "matdensity": 0.9199999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_RUBBER_NEOPRENE",
+      "matdensity": 1.23,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_SILICON_DIOXIDE",
+      "matdensity": 2.32,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_SILVER_BROMIDE",
+      "matdensity": 6.472999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_SILVER_CHLORIDE",
+      "matdensity": 5.559999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_SILVER_HALIDES",
+      "matdensity": 6.47,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_SILVER_IODIDE",
+      "matdensity": 6.01,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_SKIN_ICRP",
+      "matdensity": 1.09,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_SODIUM_CARBONATE",
+      "matdensity": 2.532,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_SODIUM_IODIDE",
+      "matdensity": 3.6669999999999994,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_SODIUM_MONOXIDE",
+      "matdensity": 2.2699999999999996,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_SODIUM_NITRATE",
+      "matdensity": 2.261,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_STILBENE",
+      "matdensity": 0.9707,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_SUCROSE",
+      "matdensity": 1.5804999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_TERPHENYL",
+      "matdensity": 1.2399999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_TESTIS_ICRP",
+      "matdensity": 1.0399999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_TETRACHLOROETHYLENE",
+      "matdensity": 1.6250000000000002,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_THALLIUM_CHLORIDE",
+      "matdensity": 7.003999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_TISSUE_SOFT_ICRP",
+      "matdensity": 1.0299999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_TISSUE_SOFT_ICRU-4",
+      "matdensity": 1.0,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_TISSUE-METHANE",
+      "matdensity": 0.0010640899999999997,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_TISSUE-PROPANE",
+      "matdensity": 0.00182628,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_TITANIUM_DIOXIDE",
+      "matdensity": 4.26,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_TOLUENE",
+      "matdensity": 0.8668999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_TRICHLOROETHYLENE",
+      "matdensity": 1.4599999999999997,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_TRIETHYL_PHOSPHATE",
+      "matdensity": 1.07,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_TUNGSTEN_HEXAFLUORIDE",
+      "matdensity": 2.3999999999999995,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_URANIUM_DICARBIDE",
+      "matdensity": 11.279999999999998,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_URANIUM_MONOCARBIDE",
+      "matdensity": 13.63,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_URANIUM_OXIDE",
+      "matdensity": 10.96,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_UREA",
+      "matdensity": 1.3229999999999997,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_VALINE",
+      "matdensity": 1.23,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_VITON",
+      "matdensity": 1.8,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_WATER_VAPOR",
+      "matdensity": 0.0007561819999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_XYLENE",
+      "matdensity": 0.8699999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_GRAPHITE",
+      "matdensity": 2.21,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_lH2",
+      "matdensity": 0.0708,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_lN2",
+      "matdensity": 0.807,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_lO2",
+      "matdensity": 1.141,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_lAr",
+      "matdensity": 1.396,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_lBr",
+      "matdensity": 3.1028000000000002,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_lKr",
+      "matdensity": 2.4179999999999997,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_lXe",
+      "matdensity": 2.9529999999999994,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_PbWO4",
+      "matdensity": 8.28,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_Galactic",
+      "matdensity": 9.999999999999999E-26,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_GRAPHITE_POROUS",
+      "matdensity": 1.6999999999999997,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_LUCITE",
+      "matdensity": 1.19,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_BRASS",
+      "matdensity": 8.52,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_BRONZE",
+      "matdensity": 8.82,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_STAINLESS-STEEL",
+      "matdensity": 8.0,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CR39",
+      "matdensity": 1.32,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_OCTADECANOL",
+      "matdensity": 0.8119999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_KEVLAR",
+      "matdensity": 1.44,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_DACRON",
+      "matdensity": 1.4,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_NEOPRENE",
+      "matdensity": 1.23,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_CYTOSINE",
+      "matdensity": 1.3,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_THYMINE",
+      "matdensity": 1.48,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_URACIL",
+      "matdensity": 1.32,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_DEOXYRIBOSE",
+      "matdensity": 1.5,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_PHOSPHORIC_ACID",
+      "matdensity": 1.8699999999999999,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_DNA_DEOXYRIBOSE",
+      "matdensity": 1.0,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_DNA_PHOSPHATE",
+      "matdensity": 1.0,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_DNA_ADENINE",
+      "matdensity": 1.0,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_DNA_GUANINE",
+      "matdensity": 1.0,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_DNA_CYTOSINE",
+      "matdensity": 1.0,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_DNA_THYMINE",
+      "matdensity": 1.0,
+      "mat_E": 50.0
+    },
+    {
+      "matname": "G4_DNA_URACIL",
+      "matdensity": 1.0,
+      "mat_E": 50.0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "world": {
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "material": "G4_Galactic",
+    "xSize": 1.0,
+    "ySize": 1.0,
+    "zSize": 2.0,
+    "layersOffset": 10.0,
+    "maxStep": 20.0
+  },
+  "layers": [
+    {
+      "name": "L001-G4_POLYETHYLENE",
+      "material": "G4_POLYETHYLENE",
+      "thickness": 9.078248186104997,
+      "countAllEntries": "true",
+      "trackPrimSurvivors": "false",
+      "reqResidualEnrgOnExit": "false",
+      "maxStep": 20.0
+    },
+    {
+      "name": "L002-G4_Ti",
+      "material": "G4_Ti",
+      "thickness": 2.9723964617686685,
+      "countAllEntries": "true",
+      "trackPrimSurvivors": "false",
+      "reqResidualEnrgOnExit": "false",
+      "maxStep": 20.0
+    },
+    {
+      "name": "Detector",
+      "material": "G4_AIR",
+      "thickness": 50.0,
+      "countAllEntries": "false",
+      "trackPrimSurvivors": "true",
+      "reqResidualEnrgOnExit": "true",
+      "evalRadiations": "true",
+      "maxStep": 20.0
+    }
+  ]
+}
+

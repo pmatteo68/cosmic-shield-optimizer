@@ -1,0 +1,24 @@
+{
+  "world": {
+    "position": [0.0, 0.0, 0.0],
+    "material": "G4_Galactic",
+    "xSize": 1.0,
+    "ySize": 1.0,
+    "zSize": 2.0,
+    "layersOffset": 10.0,
+    "maxStep": 20.0
+  },
+  "layers": [
+    {
+      "name": "Detector",
+      "material": "G4_AIR",
+      "thickness": 50.0,
+      "countAllEntries": "false",
+      "trackPrimSurvivors": "true",
+      "reqResidualEnrgOnExit": "true",
+      "evalRadiations": "true",
+      "maxStep": 20.0
+    }
+  ]
+}
+

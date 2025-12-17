@@ -1,0 +1,9 @@
+{
+  "layerCommonProps": {
+    "countAllEntries": "true",
+    "trackPrimSurvivors": "false",
+    "reqResidualEnrgOnExit": "false",
+    "maxStep": 20.0
+  }
+}
+
